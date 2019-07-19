@@ -1,8 +1,8 @@
-#Form Attachments
+# Form Attachments
 
 The `form-attachments.js` is a module that will handle the creation, function, and validation for the file attachments. The unique beauty of this module will enable you to easily customize the `input[type='file']` from the standerd ugly style.
 
-##Getting Started
+## Getting Started
 
 Getting started is super easy. All you need to do is add the following `div` wherever you want in your form:
 
@@ -23,7 +23,7 @@ Then add the following javascript source and code:
 ```
 By default one input file will be added to the `.file-attachment` div tag. That is all you need to get started! It really is that simple.
 
-##Add Multiple Attachments
+## Add Multiple Attachments
 
 There are times where you want the user to be able to attach multiple attachments. There are two ways of accomplshing this and you can decide which one is oppropiate for you. You might even want to use both.
 
@@ -41,7 +41,7 @@ The second method and probably the more practical option is to add a data set to
 
 Additionally if you need to add the file attachments in more than one places in your form you can add the `<div class="file-attachment"></div>` wherever you need as many times as you want.
 
-##Validating Attachment Extensions
+## Validating Attachment Extensions
 
 Validation is important especially when you want users only uploading certian attachment types. The validation built into `form-attachment.js` will validate the attachment immediatly upon selecting. Add the following option:
 
