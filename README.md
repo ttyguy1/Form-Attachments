@@ -25,7 +25,7 @@ Then add the following javascript source and code:
   });
 </script>
 ```
-Add the style sheet:
+Add the style sheet to page head:
 ```html
 <link rel="stylesheet" type="text/css" href="form-attachments.css" >
 ```
