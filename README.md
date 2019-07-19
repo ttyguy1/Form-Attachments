@@ -17,7 +17,7 @@ Getting started is super easy. All you need to do is add the following `div` whe
 Then add the following javascript source and code:
 
 ```javascript
-<script src="/library/scripts/form-attachments.js"></script>
+<script src="form-attachments.js"></script>
 <script>
   var form_options = new Form_Options();
   form_options.Initialize({
@@ -25,6 +25,11 @@ Then add the following javascript source and code:
   });
 </script>
 ```
+Add the style sheet:
+```html
+<link rel="stylesheet" type="text/css" href="form-attachments.css" >
+```
+
 By default one input file will be added to the `.file-attachment` div tag. That is all you need to get started! It really is that simple.
 
 ## Add Multiple Attachments
