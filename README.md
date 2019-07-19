@@ -2,7 +2,7 @@
 
 The `form-attachments.js` is a module that will handle the creation, function, and validation for the file attachments. The unique beauty of this module will enable you to easily customize the `input[type='file']` from the standerd ugly style.
 
-![File Attachments image][data/fileAttachments.png]
+![File Attachments image][data/fileAttachment.png]
 
 ## Getting Started
 
